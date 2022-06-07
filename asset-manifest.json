@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Orbit-Prism/static/css/main.ab2810fa.css",
-    "main.js": "/Orbit-Prism/static/js/main.48c19bf3.js",
+    "main.css": "/Orbit-Prism/static/css/main.c264e55d.css",
+    "main.js": "/Orbit-Prism/static/js/main.e9219480.js",
     "static/js/787.28cb0dcd.chunk.js": "/Orbit-Prism/static/js/787.28cb0dcd.chunk.js",
     "static/media/Rectangle 101.png": "/Orbit-Prism/static/media/Rectangle 101.e92f190b2031605ff9dd.png",
     "static/media/Rectangle 10.png": "/Orbit-Prism/static/media/Rectangle 10.38250c88634fe4ce51f7.png",
@@ -48,12 +48,12 @@
     "static/media/Page-1.svg": "/Orbit-Prism/static/media/Page-1.04d422efe5d8cee5732700004597c9b7.svg",
     "index.html": "/Orbit-Prism/index.html",
     "static/media/blackbg.svg": "/Orbit-Prism/static/media/blackbg.7318641715393a54a570d2764cb244d5.svg",
-    "main.ab2810fa.css.map": "/Orbit-Prism/static/css/main.ab2810fa.css.map",
-    "main.48c19bf3.js.map": "/Orbit-Prism/static/js/main.48c19bf3.js.map",
+    "main.c264e55d.css.map": "/Orbit-Prism/static/css/main.c264e55d.css.map",
+    "main.e9219480.js.map": "/Orbit-Prism/static/js/main.e9219480.js.map",
     "787.28cb0dcd.chunk.js.map": "/Orbit-Prism/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab2810fa.css",
-    "static/js/main.48c19bf3.js"
+    "static/css/main.c264e55d.css",
+    "static/js/main.e9219480.js"
   ]
 }
